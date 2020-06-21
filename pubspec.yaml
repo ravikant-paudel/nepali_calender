@@ -1,0 +1,15 @@
+name: nepali_calender
+version: 1.0.0
+
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  nepali_utils: '>=2.2.1 <3.0.0'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
